@@ -49,8 +49,8 @@ Some of favorite and preferred programming languages include:
   <br>
 
 
-
 <!-- 
+![Mason's github stats](https://github-readme-stats.vercel.app/api?username=mballard29&show_icons=true)
 - 🔭 I’m currently working on ... 
 - 🌱 I’m currently learning ... 
 - 👯 I’m looking to collaborate on ... 
