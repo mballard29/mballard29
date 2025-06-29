@@ -44,7 +44,7 @@ Some of favorite and preferred programming languages include:
   - Storing and creating a standardized process for storing, modifying, and displaying unique and variable data in strucutre systems like databases and predefined or (more) strictly typed data structures
 
 #### ⚡Certifications:
-- CompTIA A+ ce, Mar 31, 2025 - 2028
+- CompTIA A+ , Security+, Jun 5, 2025 - 2028
 - GIAC GPYC (GIAC Python Coder), May 14, 2025 - 2029
   <br>
 
