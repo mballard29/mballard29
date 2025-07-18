@@ -23,6 +23,7 @@ Some of favorite and preferred programming languages include:
 - using Google Cloud Platform, a Google cloud project, and a Google application API to automate tasks utilizing Google applications
 
 #### Highlight 🎞️ Reel - Short descriptions of the pinned projects on my Github and my most interesting lessons learned:
+- 📖 Udemy-Transcripts: A web scraping command line utility that helps transform Udemy transcripts and practice test reviews into Word docs and PDFs to increase accessibility and allow for deeper engagement with the learning material.
 - 🎵 this-sounds-like: A Python Flask web scraping appication that uses Genius.com to gather credits for songs and albums
   - the `BeautifulSoup` module for web scraping or parsing HTML and XML sources
   - you can use `opencv-python` and `numpy` to average colors - shout out to [Tim Poulsin's 2018 blog post](https://www.timpoulsen.com/2018/finding-the-dominant-colors-of-an-image.html) for this
