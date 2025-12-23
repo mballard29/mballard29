@@ -1,26 +1,13 @@
 ## Hi there 👋 My name is Mason
 📫 Message me on [LinkedIn](https://www.linkedin.com/in/mason-ballard/)
 
-I have a Master of Science in Computer Science with a concentration in Cybersecurity and a Bachelor of Arts in Computer Science with a minor in Information Technology from Florida State University. 
-
-I have professional work experience in the public and private sector doing data analytics, data science, dashboarding, report generation, database management, project management, software development, technical writing, cross-functional planning and coordination, and more. 
+I have a Master of Science in Computer Science with a concentration in Cybersecurity and a Bachelor of Arts in Computer Science with a minor in Information Technology from Florida State University. I have multiple years of professional work experience in the public (federal and state) and private sector. I have several professional certifications including but not limited to CompTIA A+, Network+, and Security+ and GPYC (GIAC Python Coder). 
 
 Some of favorite and preferred programming languages include:
 - 🐍 Python
 - 🐬 SQL
 - 🤖 C#
 <br>
-
-🌱 I am currently learning about:
-- AI and LLMs (specifically implementation in Python), and integration into other software applications
-<br>
-
-🔭 I recently learned about:
-- web scraping (BeautifulSoup, Selenium)
-- building web applications in Python (Flask, Bootstrap, SQLite)
-- building cross-platform applications in .NET (C#, .NET MAUI, Blazor Hybrid)
-  - using Microsoft.ClearScript.V8 V8ScriptEngine to run Javascript in C# .NET applications
-- using Google Cloud Platform, a Google cloud project, and a Google application API to automate tasks utilizing Google applications
 
 #### Highlight 🎞️ Reel - Short descriptions of the pinned projects on my Github and my most interesting lessons learned:
 - 📖 Udemy-Transcripts: A web scraping command line utility that helps transform Udemy transcripts and practice test reviews into Word docs and PDFs to increase accessibility and allow for deeper engagement with the learning material.
@@ -36,15 +23,15 @@ Some of favorite and preferred programming languages include:
 - 🚗 Effective-Electric-Vehicles: A group research term paper written for a data science course. Long title: "Measuring the Effectiveness of Electric Vehicles based on Environmental Impact, Cost-Effectiveness, and Reliability"
   - A satisfying culmination of exercising skills accrued in LaTex, Overleaf, Python, Jupyter Notebooks, SQL + MySQL
   - Great experience utilizing and demonstrating lessons learned using matplotlib and scikit-learn to create visualizations, aggregate data, and utilize various predictive analysis tools to gather insights and support conclusions as part of research.
-- ⚛️ PQC-Standardization-Report: A research paper on NIST's PQC standardization process
-  - An interesting dive into recent work at NIST. Got to understand post-quantum cryptography, its importance, and just how standards are iteratively selected and standardized thanks to whitepapers, publicly available FIPs papers, and public posted presentations and conference/summit sessions and recordings.
-  - A great way for me to get insight into the governance that surrounds the ever moving and changing technological world and its impact on small everyday things to infrastructure security.
 - 🎧 SocialSounds: A web application built as part of a group project written primarily in Python
   - Helped understand web applications as a concept and their implementation
   - Learning to implement and utilize APIs and how powerful they can be
   - Storing and creating a standardized process for storing, modifying, and displaying unique and variable data in strucutre systems like databases and predefined or (more) strictly typed data structures
+- ⚛️ PQC-Standardization-Report: A research paper on NIST's PQC standardization process
+  - An interesting dive into recent work at NIST. Got to understand post-quantum cryptography, its importance, and just how standards are iteratively selected and standardized thanks to whitepapers, publicly available FIPs papers, and public posted presentations and conference/summit sessions and recordings.
+  - A great way for me to get insight into the governance that surrounds the ever moving and changing technological world and its impact on small everyday things to infrastructure security.
 
-#### ⚡Certifications:
+#### ⚡ Certifications:
 - CompTIA A+ , Network+, Security+, July 7, 2025 - 2028
 - GIAC GPYC (GIAC Python Coder), May 14, 2025 - 2029
   <br>
